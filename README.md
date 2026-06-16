@@ -1,56 +1,87 @@
 <div align="center">
-  <!-- Animated Typing Intro -->
-  <a href="https://github.com/kurumicodex">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Halo!+Saya+Kurumi+Codex+👋;Frontend+%26+Backend+Developer;Vibe+Web+Development+Enthusiast;Menggabungkan+Kode+%26+Bisnis+Digital" alt="Typing SVG" />
+  <!-- Dynamic Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=250&section=header&text=Kurumi%20Codex&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Frontend%20%7C%20Backend%20%7C%20Digital%20Business&descAlignY=55&descSize=20"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=💻+Fullstack+Web+Developer;🎨+Vibe+Web+Development+Enthusiast;📈+Bridging+Tech+%26+Business;🚀+Building+High-Performance+Apps" alt="Typing SVG" />
   </a>
-  <br/>
-  <p><i>Membangun pengalaman web modern, mengelola arsitektur server, dan mengoptimalkan performa.</i></p>
 </div>
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 🌌 Who Am I?
 
-Seorang pengembang web penuh waktu (fullstack) yang antusias dalam merancang infrastruktur sistem yang andal dan menciptakan pengalaman antarmuka yang mulus. Saat ini berbasis di **Surabaya, Indonesia**, saya memiliki ketertarikan mendalam untuk menjembatani logika pemrograman dengan strategi ekosistem bisnis digital.
-
-- 💼 **Fokus Saat Ini:** Frontend Development, Backend Architecture, & Vibe Web Development.
-- 🌱 **Sedang Mendalami:** UI/UX Design, Analisis Metrik Bisnis, dan Performance Optimization.
-- ⚙️ **Keahlian Teknis:** Pengembangan API, Manajemen VPS/Linux, serta konfigurasi jaringan dan DNS.
-- 📍 **Jejak Langkah:** Pekanbaru ➡️ Surabaya.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      Membangun ekosistem digital bukan sekadar merangkai kode, tapi menciptakan <strong>pengalaman dan nilai bisnis</strong>. Saat ini saya berdomisili di <strong>Surabaya, Indonesia</strong>, dengan fokus utama mengeksplorasi persimpangan antara arsitektur sistem, desain antarmuka, dan strategi bisnis digital.
+      <br><br>
+      🔭 <strong>Fokus Utama:</strong> Frontend Development, Backend Architecture, & Vibe Web Dev.<br>
+      🌱 <strong>Sedang Mendalami:</strong> UI/UX Design, Performa & Optimasi Server, Bisnis Digital.<br>
+      🛠️ <strong>Aktivitas Lain:</strong> Konfigurasi DNS/Cloud, Eksplorasi Keamanan Sistem, & Manajemen Database.
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="80" />
+      <br>
+      <i>"Menulis kode yang menceritakan sebuah vibe."</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Alat Kerja
+### 🚀 Tech Arsenal
 
 <div align="center">
-  <p><strong>Bahasa & Framework</strong></p>
+  <p><strong>Core Stack & Tools</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python&perline=6" alt="Bahasa Pemrograman" />
-  </a>
-  <br/><br/>
-  <p><strong>Database, Cloud & Tools</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,linux,cloudflare,git,github,figma&perline=6" alt="Infrastruktur dan Alat" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,php,python,html,css,mongodb,linux,cloudflare,git,github,figma&perline=6" alt="Tech Stack Kurumi Codex" />
   </a>
 </div>
 
 ---
 
-### 📊 Statistik Repositori
+### 🏆 Trophies & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurumicodex&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3B82F6" width="48%" alt="Statistik GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurumicodex&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff" width="48%" alt="Statistik Streak" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kurumicodex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Kurumi Codex Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Activity Graph (Super Modern) -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurumicodex&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=06B6D4&point=ffffff&hide_border=true" alt="Activity Graph" width="90%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Stats & Top Langs in Grid -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kurumicodex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurumicodex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="45%" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Hubungi & Kolaborasi
-
-Meskipun saya lebih sering menghabiskan waktu di balik layar menulis kode atau mengatur konfigurasi server, saya selalu terbuka untuk mendiskusikan optimasi performa web, desain UI/UX, maupun merancang ide proyek digital baru. 
+### 🌐 Let's Connect!
 
 <div align="center">
   <a href="https://github.com/kurumicodex">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:contact@your-email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=30&section=footer"/>
 </div>
