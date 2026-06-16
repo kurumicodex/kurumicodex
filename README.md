@@ -114,3 +114,4 @@ Saya selalu terbuka untuk berdiskusi seputar arsitektur API, optimasi infrastruk
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=500&color=a9b1d6&center=true&vCenter=true&width=500&lines=%22Code+is+the+canvas.+Logic+is+the+vibe.%22" alt="Quote" />
+</div>
